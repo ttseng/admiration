@@ -84,7 +84,7 @@ People whose creative output I look up to
 # Publishers / Magazines
 - McSweeney's
 - Drawn & Quarterly
-- Version Books
+- Verso Books
 - The New Yorker
 - Lucky Peach (RIP)
 

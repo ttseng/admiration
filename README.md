@@ -89,6 +89,7 @@ People whose creative output I look up to
 - Lucky Peach (RIP)
 
 # Musicians
+- David Berman
 - Charli XCX
 - Stereolab
 - The Radio Dept.

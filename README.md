@@ -22,7 +22,7 @@ People whose creative output I look up to
  
  # Engineers
  - Lenore Edman
- - Windell Okay
+ - Windell Oskay
  - Ilan Moyer
  - Potch
  - Rickson Sun

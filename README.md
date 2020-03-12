@@ -66,7 +66,7 @@ People whose creative output I look up to
 # Visual Artists
 - Lynda Barry
 - Jason Munn
-- Noriitake
+- Noritake
 - Ryan Putnam
 - Taku Tashiro
 - Adrian Tomine

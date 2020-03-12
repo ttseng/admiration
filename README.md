@@ -78,6 +78,7 @@ People whose creative output I look up to
 - Isao Takahata
 
 # Comedians
+- Conan O'Brien
 - Demetri Martin
 - Nathan Fielder
 

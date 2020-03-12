@@ -91,5 +91,6 @@ People whose creative output I look up to
 # Musicians
 - David Berman
 - Charli XCX
+- Descendents
 - Stereolab
 - The Radio Dept.
